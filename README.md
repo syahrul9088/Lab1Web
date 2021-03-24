@@ -18,4 +18,5 @@ Jawab
 3. Alt adalah deskripsi tentang gambar, fungsi attribute alt akan menampilkan informasi mengenai gambar ketika internet mengalami gangguan.
  
 Sedangkan title adalah judul gambar, Title ini akan berfungsi saat kita mengarahkan kursor ke sebuah gambar. Akan muncul informasi gambar seperti berikut ini
+
 ![image](https://user-images.githubusercontent.com/39154644/112295529-9370f980-8cc6-11eb-9c5a-baa67516f6a9.png)
