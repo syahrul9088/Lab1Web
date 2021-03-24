@@ -37,7 +37,7 @@ Jawab
 
 **Halaman Pertama**
 
-**Menambahkan judul ditab head HTML**
+**Menambahkan judul ditab dengan head HTML**
 
 ![image](https://user-images.githubusercontent.com/39154644/112301031-1ea0be00-8ccc-11eb-81f8-a873aa4ca77f.png)
 
