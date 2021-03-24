@@ -33,7 +33,6 @@ Jawab
    attribute "_parent", ketika diklik akan membuka dokumen di tab baru dan saling terhubung dengan link yang lain.
 
 
-**Screenshoot**
 
 
 **Halaman Pertama**
