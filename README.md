@@ -14,8 +14,17 @@ _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
 Jawab
 
 1. Terdapat error jika kita mengubah tag dengan sesukan kita, contoh misal menulis tag "hrif", maka program kita akan error karena tag "hrif" tidak terdefinisi di HTML. Penulisan tag yang benar adalah "href"
+
 2. Tag "p" adalah tag pembuka, selain itu untuk tag paragraf
+
 3. Alt adalah deskripsi tentang gambar, fungsi attribute alt akan menampilkan informasi mengenai gambar ketika internet mengalami gangguan.
   Sedangkan title adalah judul gambar, Title ini akan berfungsi saat kita mengarahkan kursor ke sebuah gambar. Akan muncul informasi gambar seperti berikut ini
 
 ![image](https://user-images.githubusercontent.com/39154644/112295529-9370f980-8cc6-11eb-9c5a-baa67516f6a9.png)
+
+4. Ya harus diisi semua, karena agar seimbang panjang dan lebar nya
+
+5. attribute "_blank", ketika di klik akan membuka dokumen di tab baru
+   attribute "_self", ketika diklik akan membuka dokumen di tab yang sama
+   attribute "_top", ketika diklik akan membuka dokumen di tab baru dengan tampilan fullscreen
+   attribute "_parent", ketika diklik akan membuka dokumen di tab baru dan saling terhubung dengan link yang lain.
