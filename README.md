@@ -1,5 +1,5 @@
 # Lab1Web
-Praktikum 1
+**Praktikum 1**
 
 Jawab Pertanyaan Berikut
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah
