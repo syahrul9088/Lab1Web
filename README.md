@@ -38,10 +38,12 @@ Jawab
 
 **Halaman Pertama**
 
-**Menambahkan Tek menggunakan tag "p"*
+**Menambahkan judul ditab head HTML**
+
 ![image](https://user-images.githubusercontent.com/39154644/112301031-1ea0be00-8ccc-11eb-81f8-a873aa4ca77f.png)
 
 
+**Menambahkan Tag menggunakan tag "p"**
 
 ![image](https://user-images.githubusercontent.com/39154644/112301348-6c1d2b00-8ccc-11eb-9716-724f1d6d23fe.png)
 
