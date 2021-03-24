@@ -31,3 +31,8 @@ Jawab
    attribute "_top", ketika diklik akan membuka dokumen di tab baru dengan tampilan fullscreen
    
    attribute "_parent", ketika diklik akan membuka dokumen di tab baru dan saling terhubung dengan link yang lain.
+
+
+#Sreenshoot
+
+ 
