@@ -35,4 +35,21 @@ Jawab
 
 **Screenshoot**
 
+**Halaman Pertama**
+
+![image](https://user-images.githubusercontent.com/39154644/112301031-1ea0be00-8ccc-11eb-81f8-a873aa4ca77f.png)
+
+![image](https://user-images.githubusercontent.com/39154644/112301348-6c1d2b00-8ccc-11eb-9716-724f1d6d23fe.png)
+
+![image](https://user-images.githubusercontent.com/39154644/112301250-514ab680-8ccc-11eb-9c92-a8c4c2ab03ff.png)
+
+![image](https://user-images.githubusercontent.com/39154644/112301450-8951f980-8ccc-11eb-9d2c-a235a048441f.png)
+
+![image](https://user-images.githubusercontent.com/39154644/112301582-abe41280-8ccc-11eb-962c-deb01132e85a.png)
+
+
+
+**Halaman Kedua**
+![image](https://user-images.githubusercontent.com/39154644/112301713-d03fef00-8ccc-11eb-8af8-c73a63f38772.png)
+
  
